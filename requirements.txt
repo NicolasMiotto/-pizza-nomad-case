@@ -1,0 +1,9 @@
+pandas
+numpy
+pyarrow
+openpyxl
+gspread
+gspread-dataframe
+pandas-gbq
+google-cloud-bigquery
+google-auth

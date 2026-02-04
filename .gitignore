@@ -1,0 +1,7 @@
+__pycache__/
+/logs/
+.ipynb_checkpoints/
+.env
+*.pyc
+/notebooks/
+credentials.json
