@@ -1,6 +1,6 @@
 # Nomad Pizzaria Case
 
-Project structure and ETL pipeline for Nomad Bank technical case.
+This project was part of a technical case that i did in an interview For Nomad Bank.
 
 - Data: raw Excel files -> transformed to Parquet (gold)
 - ETL implemented in `src/etl_pipeline.py`
